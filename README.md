@@ -27,6 +27,11 @@ O projeto em si apresenta a rotacao de 4 imgs com efeito de transicao.
 
 ![BannerRotativo](https://user-images.githubusercontent.com/67908082/95097025-607c7e80-0703-11eb-8d19-c20d2ecc2abf.gif)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DIa 05/10/2020
+Setor de produtos cujo intuito e selecionar a quantidade de produtos por linha, visando melhorar a acessibilidade ao usuario.
+
+![SetordeProdutos](https://user-images.githubusercontent.com/67908082/95129651-b10ad080-0731-11eb-91b3-af766b944141.gif)
 
 
 
