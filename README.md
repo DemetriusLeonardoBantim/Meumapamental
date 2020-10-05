@@ -19,6 +19,14 @@ Formulario basico com animacoes em JS.
 
 ![git02](https://user-images.githubusercontent.com/67908082/94070863-4ec4de00-fdc9-11ea-98c4-136673ad640c.gif)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Dia 05/10/2020
+Banner rotativo facilmente customizável.
+Melhorando as maninulacoes com Js + css.
+O projeto em si apresenta a rotacao de 4 imgs com efeito de transicao.
+
+![](trash:///BannerRotativo.gif)
+
 
 
 
