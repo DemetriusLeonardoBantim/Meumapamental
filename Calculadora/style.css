@@ -1,0 +1,38 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  outline: none;
+  font-weight: 500;
+  font-size: 22px;
+}
+
+body{
+  background-color: rgb(192, 134, 192);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+
+input[type=button]{
+  width: 60px;
+  height: 40px;
+  border-radius: 10%;
+  background-color: gainsboro;
+}
+
+div#calculadora div{
+  display: flex;
+}
+
+input[type=text]{
+  height: 80px;
+  margin-bottom: 2px;
+  width: 60%;
+  font-size: 1rem;
+  background-color: black;
+  color: white;
+  border-radius: 10% 10% 0 0;
+}
+
