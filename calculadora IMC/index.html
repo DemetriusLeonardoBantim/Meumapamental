@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>calculadora IMC</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="header">
+    <h1 class="title">Calculadora IMC</h1>
+    <ul class= "menu">
+      <li>Home</li>
+      <li>Sobre</li>
+    </ul>
+  </header>
+  <main class="main">
+    <form name="calc">
+      <div class="calc">
+        <section class="visor"><p class='resultado'>Seu imc:</p></section>
+        <label for="peso">Informe seu peso</label>
+        <input type="number" name="peso" id="peso" >
+        <label for="altura">Informe sua altura</label>
+        <input type="number" name="altura" id="altura">
+        <button type="button" id="bot" onclick="calcularIMC()">Calcular =)</button>
+      </div>
+    </form>
+  </main>
+  <footer class="footer">
+    <h1 class="fot">Projeto desenvolvido por Demetrius Leonardo</h1>
+  </footer>
+  <script src="imc.js"></script>
+</body>
+</html>
