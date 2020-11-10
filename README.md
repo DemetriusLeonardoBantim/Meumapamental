@@ -33,11 +33,22 @@ Setor de produtos cujo intuito e selecionar a quantidade de produtos por linha, 
 
 ![SetordeProdutos](https://user-images.githubusercontent.com/67908082/95129651-b10ad080-0731-11eb-91b3-af766b944141.gif)
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Dia 09/11/2020
 Calculadora simples. =)
 
 ![calculadora](https://user-images.githubusercontent.com/67908082/98548643-8a800e00-2278-11eb-9b02-0484604692e5.gif)
 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dia 10/10/2020
+Calculadora IMC simples
+
+![CalculadoraIMC](https://user-images.githubusercontent.com/67908082/98668354-84e4ff80-232e-11eb-8011-958f5edda274.gif)
 
 
 
