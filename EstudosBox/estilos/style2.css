@@ -1,0 +1,111 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+
+
+body{
+  background-color: #DCDCDC;
+}
+h1{
+  font-size: 1.3rem;
+  color: white;
+}
+
+.header{
+  display: flex;    
+  justify-content: space-around;
+  height: 70px;
+  background-color: tomato;
+  align-items: center;
+}
+
+
+
+ul li{
+  display: inline-block;
+  list-style: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: white;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.teste{
+  text-align: center;
+  margin-top: 2rem;
+  color: tomato;
+  text-transform: uppercase;
+}
+
+
+.main{
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box{
+  width: 140px;
+  height: 190px;
+  padding: 50px;
+  background-color: white;
+  margin: 10px;
+  text-align: center;
+  margin-bottom: 9rem;
+  border-radius: 1%;
+  box-shadow: 10px 10px 5px -8px rgba(0,0,0,0.75);
+}
+
+.tit{
+  position: relative;
+  text-align: center;
+  top: 1.5rem;
+  color: tomato;
+}
+
+.cName{
+  position: relative;
+  color: tomato;
+  text-align: center;
+  font-size: 0.9rem;
+  top: 100px;
+}
+
+
+.value{
+  position: relative;
+  color: gray;
+  font-size: 0.9rem;
+  top: 100px;
+}
+
+
+.add{
+  position: relative;
+  width: 132px;
+  top: 120px;
+  background-color: tomato;
+  border: 0 none;
+  color:white;
+  text-align: center;
+  height: 40px;
+  border-radius: 3%;
+}
+
+.buySection{
+  width: 300px;
+  height: 100%;
+  background-color: white;
+  text-align: center;
+  border-radius: 1%;
+  display: none;
+}
+

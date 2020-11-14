@@ -1,0 +1,143 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Zilla Slab', serif;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+body{
+  background-color:#DCDCDC;
+}
+
+.header{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 80px;
+  background-color: tomato;
+  color: white;
+}
+
+.header a{
+  font-size: 1.2rem;
+}
+
+.header h1{
+  font-size: 1.2rem;
+}
+
+
+.main{
+  display: grid;
+  grid-template-columns: 25% 1fr 10px 1fr 1fr;
+  grid-template-rows:  80px 1fr;
+}
+
+
+.recibos{
+  width: 200px;
+  height: 500px;
+  background-color: white;
+  grid-column: 2;
+  grid-row: 2;
+  border-radius: 1%;
+}
+
+.Title{
+  position: relative;
+  font-size: 1.3rem;
+  color: tomato;
+  padding: 20px;
+  text-transform: uppercase;
+}
+
+
+.checkout{
+  width: 600px;
+  height: 500px;
+  background-color: white;
+  grid-column: 4;
+  grid-row: 2;
+  border-radius: 1%;
+
+}
+
+label{
+  color: tomato;
+  font-size: 1rem;
+  margin-left: 20%;
+}
+
+.nota{
+  position: relative;
+  top: 80%; 
+  margin-left: 20px;
+  color: tomato;
+  border-top: 2px solid black;
+}
+
+input{
+  display: block;
+  border-radius: 5%;
+  border: 2px solid tomato ;
+  border-top: none;
+  border-left: none ;
+  border-right: none;
+  margin-left: 20%;
+  text-align: center;
+  color: tomato;
+}
+
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+input:focus{
+  box-shadow: 0 0 0 0;
+  outline: 0;
+}
+
+
+.intro{
+  color: tomato;
+  font-size: 0.9rem;
+  text-align: ce;
+  padding: 10px;
+}
+
+
+.title2{
+  color: tomato;
+  font-size: 1.5rem;
+  text-align: start;
+  padding: 10px;
+}
+
+input[value="0000-00-00"]::-webkit-datetime-edit {
+  color: transparent; 
+}
+
+
+
+
+button{
+  width: 200px;
+  height: 50px;
+  background-color: tomato;
+  color: azure;
+  font-size: 1rem;
+  border: none;
+  border-radius: 1%;
+}
+
+.botoes{
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 50px;
+}
+
