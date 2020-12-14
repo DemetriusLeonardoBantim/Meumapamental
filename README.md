@@ -50,7 +50,13 @@ Calculadora IMC simples
 
 ![CalculadoraIMC](https://user-images.githubusercontent.com/67908082/98668354-84e4ff80-232e-11eb-8011-958f5edda274.gif)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+Dia 14/10/2020
+
+Estudos sobre box e alguns conceitos de html e css
+![gif1](https://user-images.githubusercontent.com/67908082/99147778-66e70a00-2662-11eb-86fe-bbe0ef110633.gif)
+![gif2](https://user-images.githubusercontent.com/67908082/99147779-68183700-2662-11eb-832d-664c6ce10852.gif)
 
 
